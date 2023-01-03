@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.configuration.annotation.EnableBatchProcessing"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.Job"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.configuration.annotation.JobBuilderFactory"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.step.tasklet.Tasklet"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.item.ItemWriter"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.transaction.annotation.EnableTransactionManagement"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.configuration.annotation.StepBuilderFactory"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.core.Step"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="lombok.ToString"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="lombok.EqualsAndHashCode"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.item.file.FlatFileItemReader"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.item.file.mapping.DefaultLineMapper"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.item.file.transform.DelimitedLineTokenizer"/>
+    <fullyQualifiedTypeName name="org.springframework.core.io.PathResource"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.item.file.mapping.FieldSetMapper"/>
+    <fullyQualifiedTypeName name="projeto.batch.mapper.CustomerMapper"/>
+    <fullyQualifiedTypeName name="projeto.batch.reader.CustomerReader"/>
+    <fullyQualifiedTypeName name="org.springframework.batch.item.ItemProcessor"/>
+    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+    <fullyQualifiedTypeName name="projeto.batch.process.CustomerProcess"/>
+    <fullyQualifiedTypeName name="projeto.batch.repository.CustomerRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="projeto.batch.model.Customer"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="projeto.batch.writer.CustomerWriter"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+</qualifiedTypeNameHistroy>
